@@ -19,6 +19,7 @@ excerpt: 'Полное руководство по прошивке Nintendo Swi
 {: .notice--danger}
 
 Если вы не хотите возиться с прошивкой сами, то всё это можно проделать и за денежку. В Украине можете обращаться ко [мне](https://vk.com/rashevskyv){:target="_blank"}, в РФ к [Николаю Скотникову](https://vk.com/skotnikovnn){:target="_blank"}
+{: .notice--success}
 
 ## Что такое Homebrew? 
 
